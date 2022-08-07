@@ -23,6 +23,10 @@ h2 {
   font-size: 2em;
 }
 
+h3 {
+  padding-top: 1em;
+}
+
 /* page content */
 /* .content {
   padding: 16px;
@@ -188,7 +192,7 @@ h2 {
   text-align: center;
 }
 
-.project1 img {
+.project-screenshot {
   width: 75%;
 }
 
@@ -381,21 +385,21 @@ input[type="submit"]:hover {
 /*------contact-section------*/
 
 @media screen and (min-width: 768px) {
-  .container {
+  .contact-container {
     padding-left: 4rem;
     padding-right: 4rem;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .container {
+  .contact-container {
     padding-left: 8rem;
     padding-right: 8rem;
   }
 }
 
 @media screen and (min-width: 768px) {
-  form {
+  .form {
     grid-template-columns: repeat(2, 1fr);
   }
 }
