@@ -10,6 +10,7 @@ html {
 }
 
 body {
+  width: 100%;
   font-family: "Kanit", sans-serif;
   background: whitesmoke;
 }
@@ -20,11 +21,11 @@ p {
 
 h2 {
   text-align: center;
-  font-size: 2em;
+  font-size: 2rem;
 }
 
 h3 {
-  padding-top: 1em;
+  padding-top: 1rem;
 }
 
 /* page content */
@@ -35,6 +36,7 @@ h3 {
 /*-----------------------------------header / navbar-----------------------------------*/
 
 .topnav {
+  width: 100%;
   overflow: hidden;
   background-color: #211538;
   z-index: 1;
@@ -75,6 +77,7 @@ h3 {
 }
 
 #hero-section {
+  width: 100%;
   height: 100vh;
   background-color: rgba(255, 255, 255, 0.3);
   background-image: url(images/gran-canaria.jpg);
@@ -86,14 +89,14 @@ h3 {
 
 #hero-section h1 {
   color: #211538;
-  font-size: 6rem;
+  font-size: 5rem;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10rem;
   padding-bottom: 2rem;
   text-align: left;
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1%;
 }
 
 #contact-btn-container {
@@ -390,18 +393,6 @@ input[type="submit"]:hover {
 /*--------------------Media Queries--------------------*/
 
 /*------------body------------*/
-
-/* @media screen and (min-width: 768px) {
-  body {
-    
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  body {
-    
-  }
-} */
 
 /*------contact-section------*/
 
