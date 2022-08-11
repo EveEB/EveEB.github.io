@@ -41,4 +41,4 @@ The aim was to create an up-to-date portfolio to display and showcase my most re
 Eve Baldry
 
 - Website - ()
-- LinkedIn - ()
+- LinkedIn - (https://www.linkedin.com/in/eve-baldry)
