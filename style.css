@@ -314,7 +314,7 @@ textarea {
   text-align: right;
 }
 
-input[type="submit"] {
+button[type="submit"] {
   appearance: none;
   border: none;
   outline: none;
@@ -326,7 +326,7 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-input[type="submit"]:hover {
+button[type="submit"]:hover {
   color: #211538;
   box-shadow: 0 3px 5px #211538;
   background-color: whitesmoke;
