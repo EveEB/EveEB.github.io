@@ -1,6 +1,6 @@
 # Portfolio 2022
 
-Welcome to my current portfolio as a front-end web developer! You can view the live site here: ()
+Welcome to my current portfolio as a front-end web developer! You can view the live site here: (https://evebaldry.dev)
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ The aim was to create an up-to-date portfolio to display and showcase my most re
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://evebaldry.dev)
 
 ## My process
 
