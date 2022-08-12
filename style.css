@@ -469,6 +469,12 @@ button[type="submit"]:hover {
 
 /*------------body------------*/
 
+@media screen and (max-width: 768px) {
+  h2 {
+    margin-top: 4rem;
+  }
+}
+
 /*------hero-section------*/
 @media screen and (min-width: 280px) {
   #hero-section h1 {
