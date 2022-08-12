@@ -22,6 +22,7 @@ p {
 h2 {
   text-align: center;
   font-size: 2rem;
+  margin-top: 2rem;
 }
 
 h3 {
@@ -90,6 +91,10 @@ h3 {
   height: 21px;
 }
 
+.toggle-button:hover {
+  cursor: pointer;
+}
+
 .toggle-button .bar {
   height: 3px;
   width: 100%;
@@ -102,35 +107,6 @@ h3 {
   position: sticky;
   top: 0;
 }
-
-/* .topnav {
-  width: 100%;
-  overflow: hidden;
-  background-color: #211538;
-  z-index: 1;
-}
-
-.name-header {
-  font-weight: bold;
-  margin-right: 2rem;
-}
-
-/* Navbar links and name */
-/* .topnav a {
-  float: left;
-  display: block;
-  color: #fcf8f3;
-  text-align: center;
-  font-size: 1.4rem;
-  padding: 1rem;
-  text-decoration: none;
-}
-
-.topnav a:hover {
-  color: #211538;
-  background-color: whitesmoke;
-  opacity: 0.7;
-} */
 
 /*-----------------------------------hero-section-----------------------------------*/
 
@@ -486,7 +462,7 @@ button[type="submit"]:hover {
     padding: 0.5rem 1rem;
   }
 
-  .navbar-links.selected {
+  .navbar-links.active {
     display: flex;
   }
 }
@@ -516,8 +492,8 @@ button[type="submit"]:hover {
 
 @media screen and (min-width: 290px) {
   .form-container {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 
