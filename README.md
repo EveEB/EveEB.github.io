@@ -20,7 +20,7 @@ The aim was to create an up-to-date portfolio to display and showcase my most re
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./images/Screenshot.png)
 
 ### Links
 
